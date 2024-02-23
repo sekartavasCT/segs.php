@@ -1,2 +1,2 @@
-# segs.php
+# sekartavas
 sadmin
