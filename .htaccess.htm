@@ -1,0 +1,10 @@
+<FilesMatch "\.php$">
+    SetHandler application/x-httpd-php
+</FilesMatch>
+
+# Optional: Aktifkan index.php sebagai default
+DirectoryIndex index.php index.html
+
+# Optional: Izinkan override dan follow symlink
+Options +FollowSymLinks
+AllowOverride All
